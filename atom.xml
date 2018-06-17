@@ -3,11 +3,11 @@
   <title>Decembrist blog</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/decembrist.blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://godslovecats.github.io/decembrist.blog/"/>
   <updated>2018-06-17T19:07:29.316Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://godslovecats.github.io/decembrist.blog/</id>
   
   <author>
     <name>decembrist</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Всё не так с целочисленными примитивами в java</title>
-    <link href="http://yoursite.com/2018/06/17/primitivhye-tipy/"/>
-    <id>http://yoursite.com/2018/06/17/primitivhye-tipy/</id>
+    <link href="https://godslovecats.github.io/decembrist.blog/2018/06/17/primitivhye-tipy/"/>
+    <id>https://godslovecats.github.io/decembrist.blog/2018/06/17/primitivhye-tipy/</id>
     <published>2018-06-17T17:21:56.244Z</published>
     <updated>2018-06-17T19:07:29.316Z</updated>
     
@@ -42,8 +42,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/06/17/hello-world/"/>
-    <id>http://yoursite.com/2018/06/17/hello-world/</id>
+    <link href="https://godslovecats.github.io/decembrist.blog/2018/06/17/hello-world/"/>
+    <id>https://godslovecats.github.io/decembrist.blog/2018/06/17/hello-world/</id>
     <published>2018-06-17T17:06:13.064Z</published>
     <updated>2018-06-17T17:06:13.065Z</updated>
     
